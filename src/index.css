@@ -51,12 +51,10 @@ h1, h2, h3, h4, h5, h6, strong {
 
 .navbar-nav .nav-link.active {
   font-weight: 700;
-  text-decoration: underline;
   color: var(--color-primary) !important;
 }
 
 .navbar-nav .nav-link:hover {
-  text-decoration: underline;
   color: var(--color-primary) !important;
 }
 
@@ -64,7 +62,7 @@ h1, h2, h3, h4, h5, h6, strong {
 .hero-section {
   min-height: 100vh;
   background: linear-gradient(rgba(0, 0, 0, 0.55), rgba(0, 0, 0, 0.55)),
-    url('https://images.pixabay.com/photo/2016/11/19/14/00/code-1839406_1280.jpg') center center / cover no-repeat;
+    url('../src/assets/hero-bg.jpg') center center / cover no-repeat;
   display: flex;
   align-items: center;
   justify-content: center;

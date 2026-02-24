@@ -8,7 +8,7 @@ function Header() {
         <div className="container">
           {/*logo*/}
           <NavLink className="navbar-brand fw-bold fs-4 text-primary" to="/">
-            &lt;JohnDOE /&gt;
+            JOHN DOE
           </NavLink>
 
           {/*hamburger*/}
