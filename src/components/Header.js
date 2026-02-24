@@ -55,7 +55,7 @@ function Header() {
                   }
                   to="/portfolio"
                 >
-                  Réalisations
+                  Portfolio
                 </NavLink>
               </li>
               <li className="nav-item">
