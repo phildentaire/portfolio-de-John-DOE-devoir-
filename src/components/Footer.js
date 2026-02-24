@@ -12,8 +12,8 @@ function Footer() {
           <div className="col-12 col-md-4">
             <h5 className="mb-3">John DOE</h5>
             <address className="mb-3" style={{ fontStyle: 'normal', lineHeight: '1.8' }}>
-              <i className="bi bi-geo-alt-fill me-2"></i>12 Rue de la Paix, 75001 Paris<br />
-              <i className="bi bi-telephone-fill me-2"></i>+33 6 12 34 56 78<br />
+              <i className="bi bi-geo-alt-fill me-2"></i>15 Rue de la Pagode, 75016 Paris<br />
+              <i className="bi bi-telephone-fill me-2"></i>+33 6 33 34 63 76<br />
               <i className="bi bi-envelope-fill me-2"></i>john.doe@email.com
             </address>
             <div className="footer-social">
@@ -63,12 +63,13 @@ function Footer() {
           <div className="col-12 col-md-4">
             <h5 className="mb-3">Dernières réalisations</h5>
             <ul className="list-unstyled footer-links">
-              <li className="mb-2"><Link to="/portfolio">Projet E-Commerce</Link></li>
-              <li className="mb-2"><Link to="/portfolio">Application Météo</Link></li>
-              <li className="mb-2"><Link to="/portfolio">Blog Personnel</Link></li>
-              <li className="mb-2"><Link to="/portfolio">Dashboard Admin</Link></li>
-              <li className="mb-2"><Link to="/portfolio">App de Gestion</Link></li>
-              <li className="mb-2"><Link to="/portfolio">Calculatrice React</Link></li>
+              <li className="mb-2"><Link to="/portfolio">DashBoard Développeur</Link></li>
+              <li className="mb-2"><Link to="/portfolio">Espace Bien-Etre</Link></li>
+              <li className="mb-2"><Link to="/portfolio">Fresh-Food E-Commerce</Link></li>
+              <li className="mb-2"><Link to="/portfolio">Restaurant Japonais</Link></li>
+              <li className="mb-2"><Link to="/portfolio">Portfolio Responsive</Link></li>
+              <li className="mb-2"><Link to="/portfolio">Audit SEO & Référencement</Link></li>
+              <li className="mb-2"><Link to="/portfolio">Apllicaion de Gestion</Link></li>
             </ul>
           </div>
         </div>
