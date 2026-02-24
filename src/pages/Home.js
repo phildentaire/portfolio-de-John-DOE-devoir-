@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import Image from "../assets/john-doe-about.jpg"
+import imgAbout from '../assets/john-doe-about.jpg';
 import GithubModal from '../components/GithubModal';
 
 const skills = [
@@ -78,16 +78,12 @@ function Home() {
             </div>
 
             {/*photo*/}
-            <div className="col-12 col-lg-6 text-center" style={{ width: "100%", maxWidth: "768px" }}>
+            <div className="col-12 col-lg-6 text-center">
               <img
-                src={Image}
-                alt="John Doe"
-                style={{
-                  width: "100%",
-                  height: "auto",
-                  display: "block"
-                }}
-              ></img>
+                src={imgAbout}
+                alt="Photo de profil de John DOE"
+                style={{ maxWidth: '500px', objectFit: 'cover' }}
+              />
             </div>
           </div>
 
