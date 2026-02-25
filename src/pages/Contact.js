@@ -36,6 +36,7 @@ function Contact() {
         </div>
 
         <div className="row g-5">
+          
           {/*formulaire*/}
           <div className="col-12 col-lg-7">
             <h2 className="h4 mb-4">Envoyez-moi un message</h2>

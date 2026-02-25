@@ -29,11 +29,11 @@ npm start
 npm run build
 ```
 
-Le site sera accessible sur [http://localhost:3001](http://localhost:3001)
+Le site sera accessible sur [http://localhost:3000](http://localhost:3000)
 
 ---
 
-## 📁 Structure du projet
+## Structure du projet
 
 ```
 src/
@@ -89,7 +89,7 @@ public/
 
 ---
 
-## 🛠️ Technologies
+## Technologies
 
 | Technologie | Version |
 |---|---|

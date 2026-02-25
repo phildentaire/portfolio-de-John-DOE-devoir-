@@ -4,11 +4,11 @@ import GithubModal from '../components/GithubModal';
 
 const skills = [
   { name: 'HTML / CSS', level: 90, color: 'bg-danger' },
-  { name: 'JavaScript', level: 80, color: 'bg-warning' },
-  { name: 'React.js', level: 75, color: 'bg-info' },
-  { name: 'Bootstrap', level: 85, color: 'bg-success' },
+  { name: 'JavaScript', level: 60, color: 'bg-warning' },
+  { name: 'React.js', level: 60, color: 'bg-info' },
+  { name: 'Bootstrap', level: 75, color: 'bg-success' },
   { name: 'PHP / MySQL', level: 65, color: 'bg-primary' },
-  { name: 'Git / GitHub', level: 70, color: 'bg-secondary' },
+  { name: 'Git / GitHub', level: 80, color: 'bg-secondary' },
 ];
 
 function Home() {

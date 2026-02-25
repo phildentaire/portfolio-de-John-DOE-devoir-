@@ -6,6 +6,7 @@ function Header() {
     <header>
       <nav className="navbar navbar-expand-lg navbar-dark bg-dark sticky-top shadow-sm">
         <div className="container">
+          
           {/*logo*/}
           <NavLink className="navbar-brand fw-bold fs-4 text-primary" to="/">
             JOHN DOE
