@@ -8,6 +8,7 @@ function Footer() {
     <footer className="py-5 mt-auto">
       <div className="container">
         <div className="row g-4">
+          
           {/*colonne 1 :infos développeur*/}
           <div className="col-12 col-md-4">
             <h5 className="mb-3">John DOE</h5>
@@ -53,7 +54,7 @@ function Footer() {
             <ul className="list-unstyled footer-links">
               <li className="mb-2"><Link to="/">Accueil</Link></li>
               <li className="mb-2"><Link to="/services">Services</Link></li>
-              <li className="mb-2"><Link to="/portfolio">Réalisations</Link></li>
+              <li className="mb-2"><Link to="/portfolio">Portfolio</Link></li>
               <li className="mb-2"><Link to="/contact">Contact</Link></li>
               <li className="mb-2"><Link to="/mentions-legales">Mentions légales</Link></li>
             </ul>

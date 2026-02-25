@@ -17,6 +17,7 @@ const projects = [
     github: 'https://github.com/github-johndoe',
     demo: '#',
   },
+  
   {
     title: 'Espace Bien-être',
     description:
@@ -26,6 +27,7 @@ const projects = [
     github: 'https://github.com/github-johndoe',
     demo: '#',
   },
+  
   {
     title: 'Fresh Food – E-Commerce',
     description:
@@ -35,6 +37,7 @@ const projects = [
     github: 'https://github.com/github-johndoe',
     demo: '#',
   },
+  
   {
     title: 'Restaurant Japonais',
     description:
@@ -44,6 +47,7 @@ const projects = [
     github: 'https://github.com/github-johndoe',
     demo: '#',
   },
+  
   {
     title: 'Portfolio Responsive',
     description:
@@ -53,6 +57,7 @@ const projects = [
     github: 'https://github.com/github-johndoe',
     demo: '#',
   },
+ 
   {
     title: 'Audit SEO & Référencement',
     description:
@@ -62,6 +67,7 @@ const projects = [
     github: 'https://github.com/github-johndoe',
     demo: '#',
   },
+  
   {
     title: 'Application de Gestion',
     description:

@@ -172,7 +172,7 @@ function MentionsLegales() {
               data-bs-parent="#mentionsAccordion"
             >
               <div className="accordion-body">
-                <h4 className="h6 mb-3">Images</h4>
+                <h4 className="h6 mb-3">Images:</h4>
                 <p>
                   Les images utilisées sur ce site sont des images libres de droits, issues du site{' '}
                   <a
@@ -181,11 +181,11 @@ function MentionsLegales() {
                     rel="noopener noreferrer nofollow"
                   >
                     Pixabay
-                  </a>{' '}
+                  </a>
                   (licence Pixabay, utilisation gratuite à des fins personnelles et commerciales).
                 </p>
 
-                <h4 className="h6 mb-3">Favicon</h4>
+                <h4 className="h6 mb-3">Favicon:</h4>
                 <p>
                   Le favicon est disponible et téléchargeable sur le site{' '}
                   <a
@@ -198,7 +198,7 @@ function MentionsLegales() {
                   .
                 </p>
 
-                <h4 className="h6 mb-3">Technologies utilisées</h4>
+                <h4 className="h6 mb-3">Technologies utilisées:</h4>
                 <ul className="mb-0">
                   <li>
                     <strong>React.js</strong> –{' '}
